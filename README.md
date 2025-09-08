@@ -1,2 +1,2 @@
 # html-repo2
-This is my very another repo to understand git and github
+This is my repo where I added my html and css files.
